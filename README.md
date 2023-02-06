@@ -1,7 +1,8 @@
 # ENPM661_Project2
-ENPM661 Project2 on Dijkstra Algorithm Implementation
+ENPM661 Planning for Autonomous Robots <br /> 
+Project2 on Dijkstra Algorithm Implementation
 
-Instructions
+# Instructions
 1. Make sure cv2 library in installed
 2. Run Dijkstra-pathplanning-Varith-Punturaumporn.py
 3. The program will display map with blue obstracles (before inflated) 
@@ -12,3 +13,6 @@ Instructions
 8. The searching begins, start and goal nodes are displayed in red, and visited nodes are displayed in white
 9. If the goal is visited, the program will draw a optimal path from start to goal node and print "Success"
 10. If path is not found, the program will print "Failure"
+
+# Screenshot <br /> 
+![alt text](https://github.com/varithpu/ENPM661_Project2/blob/master/pic1.png)
